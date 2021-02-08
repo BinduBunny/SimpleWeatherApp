@@ -1,0 +1,1 @@
+Erase this text and replace with your open weather map api key you should find them here (https://home.openweathermap.org/api_keys) if you have an account.
